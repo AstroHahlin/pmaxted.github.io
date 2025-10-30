@@ -1,0 +1,25 @@
+.topnav{
+   background-color: #000022;
+   overflow: hidden;
+   position: fixed;
+   top: 0px;
+   width: 100%;
+}
+
+.topnav a {
+   float: left;
+   color: #FFFFCC;
+   text-align: center;
+   padding: 8px 12px;
+   text-decoration: none;
+   font-size: 16px;
+}
+
+body {
+   background-color: #000033;
+   padding-top: 20px;
+}
+
+section {
+   margin: 20px;
+}
